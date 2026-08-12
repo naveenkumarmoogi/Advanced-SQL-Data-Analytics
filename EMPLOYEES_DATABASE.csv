@@ -1,0 +1,26 @@
+employees_id,employees_name,department,job_role,salary,manager_id,city,hire_date
+101,"Rahul Sharma",IT,"Data Analyst",65000,201,Hyderabad,2022-01-15
+102,"Priya Singh",HR,"HR Executive",48000,202,Bengaluru,2021-08-20
+103,"Amit Kumar",Finance,Accountant,56000,203,Mumbai,2019-07-18
+104,"Sneha Patel",Sales,"Sales Executive",52000,204,Ahmedabad,2022-02-10
+105,"Vikram Rao",Marketing,"Marketing Executive",50000,205,Bengaluru,2021-08-25
+106,"Anjali Verma",IT,"Data Engineer",72000,201,Hyderabad,2020-11-09
+107,"Rohan Gupta",Finance,"Financial Analyst",68000,203,Pune,2019-05-20
+108,"Meera Nair",HR,Recruiter,47000,202,Kochi,2023-01-11
+109,"Arjun Reddy",Sales,"Sales Manager",85000,NULL,Hyderabad,2018-09-14
+110,"Neha Joshi",Marketing,"SEO Specialist",58000,205,Jaipur,2022-04-03
+111,"Karan Malhotra",IT,"BI Developer",69000,201,Delhi,2021-06-17
+112,"Divya Iyer",Finance,Auditor,61000,203,Chennai,2020-12-30
+113,"Suresh Yadav",Sales,"Sales Executive",51000,204,Lucknow,2022-05-08
+114,"Pooja Sharma",Marketing,"Content Writer",47000,205,Bhopal,2023-02-19
+115,"Akash Jain",IT,"Database Administrator",78000,201,Indore,2019-10-01
+116,"Nisha Kapoor",Finance,"Finance Manager",92000,NULL,Mumbai,2017-06-22
+117,"Manoj Das",HR,"HR Manager",80000,NULL,Bhubaneswar,2018-11-13
+118,"Harsha Vardhan",Sales,"Sales Executive",53000,204,Visakhapatnam,2021-09-07
+119,"Keerthi Rao",Marketing,"Digital Marketer",60000,205,Hyderabad,2020-07-15
+120,"Gaurav Mishra",IT,"Software Engineer",74000,201,Noida,2019-03-28
+121,"Lakshmi Devi",Finance,"Tax Consultant",59000,203,Vijayawada,2021-12-05
+122,"Naveen Kumar",IT,"Junior Data Analyst",58000,201,Visakhapatnam,2023-07-01
+123,"Ritika Sen",HR,"HR Associate",46000,202,Kolkata,2022-08-18
+124,"Ajay Mehta",Sales,"Regional Sales Manager",98000,NULL,Mumbai,2016-04-21
+125,"Swathi Reddy",Marketing,"Brand Manager",88000,NULL,Hyderabad,2018-01-09

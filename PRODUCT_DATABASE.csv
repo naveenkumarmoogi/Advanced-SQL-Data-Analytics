@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,price,stock_quantity
+201,Laptop,Electronics,Dell,65000.00,25
+202,Smartphone,Electronics,Samsung,32000.00,40
+203,"Wireless Earbuds",Electronics,Boat,2500.00,100
+204,"Office Chair",Furniture,Nilkamal,7500.00,30
+205,"Study Table",Furniture,Godrej,12000.00,20
+206,"Notebook Pack",Stationery,Classmate,350.00,150
+207,"Ball Pen",Stationery,Cello,50.00,500
+208,"Water Bottle",Accessories,Milton,800.00,80
+209,Backpack,Accessories,Skybags,2200.00,60
+210,"LED Monitor",Electronics,LG,18000.00,35
+211,Keyboard,Electronics,Logitech,1500.00,75
+212,Mouse,Electronics,HP,700.00,90
+213,Printer,Electronics,Canon,14500.00,15
+214,"Coffee Mug","Home & Kitchen",Prestige,450.00,120
+215,"Desk Lamp","Home & Kitchen",Philips,1800.00,45

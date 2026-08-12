@@ -1,0 +1,21 @@
+customer_id,customer_name,gender,city,state,email,phone,registration_date
+101,"Aarav Sharma",Male,Hyderabad,Telangana,aarav.sharma@gmail.com,9876500001,2021-01-15
+102,"Diya Patel",Female,Ahmedabad,Gujarat,diya.patel@gmail.com,9876500002,2021-03-22
+103,"Vivaan Reddy",Male,Visakhapatnam,"Andhra Pradesh",vivaan.reddy@gmail.com,9876500003,2020-11-10
+104,"Ananya Singh",Female,Delhi,Delhi,ananya.singh@gmail.com,9876500004,2022-02-18
+105,"Aditya Kumar",Male,Mumbai,Maharashtra,aditya.kumar@gmail.com,9876500005,2021-08-05
+106,"Ishita Verma",Female,Pune,Maharashtra,ishita.verma@gmail.com,9876500006,2020-06-30
+107,"Krishna Rao",Male,Hyderabad,Telangana,krishna.rao@gmail.com,9876500007,2022-05-14
+108,"Sneha Nair",Female,Kochi,Kerala,sneha.nair@gmail.com,9876500008,2023-01-11
+109,"Arjun Mehta",Male,Jaipur,Rajasthan,arjun.mehta@gmail.com,9876500009,2021-04-07
+110,"Meera Joshi",Female,Bengaluru,Karnataka,meera.joshi@gmail.com,9876500010,2019-12-21
+111,"Rohan Gupta",Male,Lucknow,"Uttar Pradesh",rohan.gupta@gmail.com,9876500011,2022-07-19
+112,"Pooja Iyer",Female,Chennai,"Tamil Nadu",pooja.iyer@gmail.com,9876500012,2020-10-08
+113,"Karan Das",Male,Bhubaneswar,Odisha,karan.das@gmail.com,9876500013,2021-06-25
+114,"Nisha Kapoor",Female,Indore,"Madhya Pradesh",nisha.kapoor@gmail.com,9876500014,2022-09-02
+115,"Harsha Vardhan",Male,Visakhapatnam,"Andhra Pradesh",harsha.v@gmail.com,9876500015,2023-03-17
+116,"Swathi Reddy",Female,Hyderabad,Telangana,swathi.reddy@gmail.com,9876500016,2020-01-28
+117,"Akash Jain",Male,Noida,"Uttar Pradesh",akash.jain@gmail.com,9876500017,2021-11-09
+118,"Lakshmi Devi",Female,Vijayawada,"Andhra Pradesh",lakshmi.devi@gmail.com,9876500018,2022-12-12
+119,"Rahul Malhotra",Male,Mumbai,Maharashtra,rahul.malhotra@gmail.com,9876500019,2019-08-16
+120,"Keerthi Rao",Female,Hyderabad,Telangana,keerthi.rao@gmail.com,9876500020,2023-04-20
