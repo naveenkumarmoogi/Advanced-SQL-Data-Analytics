@@ -174,14 +174,17 @@ The next stage will focus on using CTEs to break complex analytical queries into
 ## Repository Structure
 
 ```text
+
 SQL-Advanced-Practice/
 │
-├── README.md
-├── Subqueries/
-│   └── subqueries.sql
-├── Correlated-Subqueries/
-│   └── correlated_subqueries.sql
-└── screenshots/
+├── SUBQUERIES_DB.sql                 # Database creation, sample data, and 8 Subquery queries
+├── CORRELATED_SUBQUERIES_DB.sql      # Database creation, sample data, and 8 Correlated Subquery queries
+├── CUSTOMER_DATABASE.csv             # Customer dataset
+├── EMPLOYEES_DATABASE.csv            # Employee dataset
+├── ORDERS_DATABASE.csv               # Orders dataset
+├── PAYMENTS_DATABASE.csv             # Payments dataset
+├── PRODUCT_DATABASE.csv              # Product dataset
+└── README.md                          # Project documentation
 ```
 
 
