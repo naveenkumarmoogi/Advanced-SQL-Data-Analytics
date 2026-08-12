@@ -186,5 +186,9 @@ SQL-Advanced-Practice/
 ├── PRODUCT_DATABASE.csv              # Product dataset
 └── README.md                          # Project documentation
 ```
+## 📬 Connect with Me
 
+**LinkedIn:** www.linkedin.com/in/naveenkumarmoogi
+
+**GitHub:** https://github.com/naveenkumarmoogi
 
